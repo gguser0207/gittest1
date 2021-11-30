@@ -18,6 +18,7 @@
           <LI>두번째 변경 진행함.</LI>
           <LI>Yusungyong 실습1</LI>
           <LI>Yusungyong 실습2</LI>
+          <LI>Yusungyong 실습3</LI>
       </OL>
   </DIV> 
 </body>
