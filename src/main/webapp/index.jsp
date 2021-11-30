@@ -28,6 +28,9 @@
 
           <LI>Yusungyong 충돌 해결 실습. 5</LI>
           <LI>Yusungyong 충돌 해결 실습</LI>
+
+          <LI>ldk 충돌 해결 실습. 4</LI>
+          <LI>ldk 충돌 해결 실습</LI>
       </OL>
   </DIV> 
 </body>
