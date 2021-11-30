@@ -31,6 +31,9 @@
 
           <LI>ldk 충돌 해결 실습. 4</LI>
           <LI>ldk 충돌 해결 실습</LI>
+          
+          <LI>juytseh 충돌 해결 실습. 4</LI>
+          <LI>juytseh 충돌 해결 실습</LI>
       </OL>
   </DIV> 
 </body>
