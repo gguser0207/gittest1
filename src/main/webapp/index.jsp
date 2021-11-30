@@ -16,11 +16,15 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 커밋 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
+          <LI>Yusungyong 실습_1</LI>
+          <LI>Yusungyong 충돌실습</LI>
           <LI>gguser0207 실습. 충돌 해결</LI>
           <LI>gguser0207 실습. 2</LI>
           <LI>ldk9205 실습.</LI>
           <LI>gguser0207 실습. 4</LI>
 
+          <LI>Yusungyong 충돌 해결 실습. 4</LI>
+          <LI>Yusungyong 충돌 해결 실습</LI>
       </OL>
   </DIV> 
 </body>
