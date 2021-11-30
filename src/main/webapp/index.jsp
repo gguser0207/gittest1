@@ -20,7 +20,9 @@
           <LI>gguser0207 실습. 2</LI>
           <LI>gguser0207 실습. 3</LI>
           <LI>gguser0207 실습. 4</LI>
-          <LI>Yusungyong 충돌 해결 실습. 4</LI>
+
+          <LI>Yusungyong 충돌 해결 실습</LI>
+
       </OL>
   </DIV> 
 </body>
