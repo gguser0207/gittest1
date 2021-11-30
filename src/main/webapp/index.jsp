@@ -16,9 +16,11 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 커밋 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
-          <LI>gguser0207 실습. 1</LI>
+          <LI>gguser0207 실습. 충돌 해결</LI>
           <LI>gguser0207 실습. 2</LI>
           <LI>gguser0207 실습. 3</LI>
+          <LI>gguser0207 실습. 4</LI>
+
       </OL>
   </DIV> 
 </body>
