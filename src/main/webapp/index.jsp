@@ -14,9 +14,10 @@
       <H1>깃 테스트</H1>
       <OL>
           <LI>gguser0207 PL, CD 충돌 해결 실습</LI>
-          <LI>Yusungyong 충돌 해결 실습</LI>
-          <LI>ldk 충돌 해결 실습</LI>
-          <LI>juytseh 충돌 해결 실습</LI>
+          <LI>Yusungyong WP 충돌 해결 실습</LI>
+          <LI>ldk DA 충돌 해결 실습</LI>
+          <LI>juytseh AI 충돌 해결 실습</LI>
+          <LI>team6 충돌 해결 실습</LI>
       </OL>
   </DIV> 
 </body>
