@@ -16,7 +16,7 @@
           <LI>gguser0207 PL, CD 충돌 해결 실습</LI>
           <LI>Yusungyong WP 충돌 해결 실습</LI>
           <LI>ldk DA 충돌 해결 실습</LI>
-          <LI>juytseh 충돌 해결 실습</LI>
+          <LI>juytseh AI 충돌 해결 실습</LI>
       </OL>
   </DIV> 
 </body>
