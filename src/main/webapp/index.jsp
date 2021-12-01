@@ -17,10 +17,7 @@
           <LI>Yusungyong WP 충돌 해결 실습</LI>
           <LI>ldk DA 충돌 해결 실습</LI>
           <LI>juytseh AI 충돌 해결 실습</LI>
-<<<<<<< HEAD
           <LI>team6 충돌 해결 실습</LI>
-=======
->>>>>>> c2119c0525071269ef820c73079354bd9b61b842
       </OL>
   </DIV> 
 </body>
