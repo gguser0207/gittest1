@@ -13,9 +13,6 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>첫번째 변경 진행함.</LI>
-          <LI>첫번째 변경 후 커밋 안함.</LI>
-          <LI>두번째 변경 진행함.</LI>
           <LI>gguser0207 충돌 해결 실습</LI>
           <LI>Yusungyong 충돌 해결 실습</LI>
           <LI>ldk 충돌 해결 실습</LI>
